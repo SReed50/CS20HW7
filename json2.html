@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<head>
+        <title>HW7: JSON Song List - Parts 2-4</title>
+        <script src="https://code.jquery.com/jquery-3.6.3.js" integrity="sha256-nQLuAZGRRcILA+6dMBOvcRh5Pe310sBpanc6+QBmyVM=" crossorigin="anonymous"></script>
+</head>
+<body>
+        <script language="javascript">
+                $(document).ready (function() {
+                        $.get("https://silasr.sgedu.site/HW7/songlist.json", function(data) {
+                                str = JSON.stringify(data);
+                                document.write(str);
+                        })
+                })
+        </script>
+</body>
+</html>
