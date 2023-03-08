@@ -1,0 +1,94 @@
+{
+        "Songs": [
+                {
+                        "Title": "Snitch",
+                        "Artists": ["Joyner Lucas"],
+                        "Genres": ["Hip-Hop", "Rap"],
+                        "Year": 2020
+                },
+                {
+                        "Title": "Swag Surfin'",
+                        "Artists": ["F.L.Y. (Fast Life Yungstaz)"],
+                        "Genres": ["Hip-Hop", "Rap"],
+                        "Year": 2009
+                },
+                {
+                        "Title": "Kiss Me Thru The Phone",
+                        "Artists": ["Soulja Boy", "Sammie"],
+                        "Genres": ["Hip-Hop", "Rap"],
+                        "Year": 2008
+                },
+                {
+                        "Title": "Heat Waves",
+                        "Artists": ["Glass Animals"],
+                        "Genres": ["Alternative", "Indie", "Psychedelic Pop", "Contemporary R & B"],
+                        "Year": 2020
+                },
+                {
+                        "Title": "Real Gone",
+                        "Artists": ["Sheryl Crow"],
+                        "Genres": ["Country Rock", "Cowpunk"],
+                        "Year": 2006
+                },
+                {
+                        "Title": "I'm Shipping Up To Boston",
+                        "Artists": ["Dropkick Murphys"],
+                        "Genres": ["Rock"],
+                        "Year": 2005
+                },
+                {
+                        "Title": "Something Special",
+                        "Artists": ["Pop Smoke"],
+                        "Genres": ["Afroswing", "Hip-Hop", "Rap"],
+                        "Year": 2020
+                },
+                {
+                        "Title": "Going, Going, Gone",
+                        "Artists": ["Luke Combs"],
+                        "Genres": ["Country"],
+                        "Year": 2022
+                },
+                {
+                        "Title": "4 Da Gang (with Roddy Ricch)",
+                        "Artists": ["42 Dugg", "Roddy Ricch"],
+                        "Genres": ["Hip-Hop", "Rap"],
+                        "Year": 2021
+                },
+                {
+                        "Title": "Ramen & OJ",
+                        "Artists": ["Joyner Lucas", "Lil Baby"],
+                        "Genres": ["Hip-Hop", "Rap"],
+                        "Year": 2021
+                },
+                {
+                        "Title": "Dangerous",
+                        "Artists": ["Morgan Wallen"],
+                        "Genres": ["Country"],
+                        "Year": 2021
+                },
+                {
+                        "Title": "Neon Star (Country Boy Lullaby)",
+                        "Artists": ["Morgan Wallen"],
+                        "Genres": ["Country"],
+                        "Year": 2023
+                },
+                {
+                        "Title": "My Moment (feat. 2 Chainz, Meek Mill, and Jeremih)",
+                        "Artists": ["DJ Drama", "2 Chainz", "Meek Mill", "Jeremih"],
+                        "Genres": ["Indian Film Pop", "R & B", "Soul", "Hip-Hop", "Rap"],
+                        "Year": 2012
+                },
+                {
+                        "Title": "Ambition For Cash",
+                        "Artists": ["Key Glock"],
+                        "Genres": ["Hip-Hop", "Rap"],
+                        "Year": 2021
+                },
+                {
+                        "Title": "Animal",
+                        "Artists": ["Neon Trees"],
+                        "Genres": ["Alternative", "Indie"],
+                        "Year": 2010
+                }
+        ]
+}
